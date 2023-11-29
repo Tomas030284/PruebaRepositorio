@@ -1,4 +1,0 @@
-Tomás
-Leo
-Abimael
-Michell
