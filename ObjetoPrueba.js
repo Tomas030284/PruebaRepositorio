@@ -1,1 +1,3 @@
-Tomás
+function b () =>{
+    pirulito
+}
