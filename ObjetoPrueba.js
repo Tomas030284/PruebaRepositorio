@@ -1,3 +1,3 @@
-function b () =>{
-    pirulito
+function b() {
+   return  3*4
 }
